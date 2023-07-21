@@ -6,7 +6,7 @@ Dr. C. Ravindranath Chowdary, Associate Professor, CSE department IIT BHU, India
 Dr. Sawan Rai Assitant Professor, CSE department Bennett University, India  
 
 The work is under review at the esteemed journal of Language Resources and Evaluation.
-We will add the required dataset and implementation code after the acceptance of our work.
+The complete dataset will be avilable for academic research after review.
 
 The pre-print of the paper is available at
 https://assets.researchsquare.com/files/rs-2826989/v1_covered.pdf?c=1682394458
